@@ -1,0 +1,15 @@
+{
+  "name": "redux-27.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "project": "^0.1.6",
+    "uuid": "^3.3.2"
+  }
+}
